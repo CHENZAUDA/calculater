@@ -1,0 +1,25 @@
+#container{
+    width: 500px;
+    height: fit-content;
+}
+.numbers{
+width: 30%;
+height: 30px;
+background-color: rgba(167, 162, 160, 0.157);
+}
+.numbersUp{
+    width: 22.3%;
+    height: 30px;
+    background-color: rgba(222, 223, 222, 0.658);
+}
+
+
+.calinput{
+    width: 452px;
+    height: 30px;
+
+}
+#even{
+   width: 460px;
+    display: inline;
+}
